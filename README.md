@@ -1,4 +1,5 @@
 [cotrain.md](https://github.com/user-attachments/files/33179001/cotrain.md)
+
 Encoder:
 1. Baseline
 State: 多个数值，用来描述机器人、方块和目标的状态
